@@ -34,6 +34,4 @@ Inhalt:
   Die Forge Datei, die installiert werden muss.
   Es kann auch eine andere Version von der Forge Seite https://files.minecraftforge.net/net/minecraftforge/forge/index_1.20.1.html heruntergeladen werden.
 
-Hinweis:
-Es wird nicht empfohlen `Optifine` zu benutzen
-(Es gab meistens Konflikte mit `Twilight Forest`
+Hinweis: Es wird nicht empfohlen `Optifine` zu benutzen (es gab meistens Konflikte mit `Twilight Forest`)
