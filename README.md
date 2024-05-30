@@ -13,8 +13,17 @@ Installation:
    zum `mods` Ordner in Minecraft Verzeichnis hinzufügen.
    **Wichtig**: Nicht die Ordner selbst reinmachen, nur die Dateien!
 
+Inhalt:
 - Ordner `client`: \
   "optionale" Mods, jedoch wird empfohlen, alle zu benutzen
+  - `Just Zoom` und `Konkrete`: \
+    Ersetzen den Optifine Zoom
+  - `Rubidium`: \
+    Optimierungsmod
+  - `Joruney Map`: \
+    Karten Mod (sehr empfohlen)
+  - `Dynamic Lights`: \
+    ersetzt die dynamischen Lichter von Optifine
 - Ornder `common`: \
   Hauptmods, die vorausgesetzt sind
 - Datei `README.md`: \
